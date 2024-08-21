@@ -1,4 +1,4 @@
-class College{
+class Student{
     void Fee() {
         System.out.println("Student Fee= 20000");
     }
